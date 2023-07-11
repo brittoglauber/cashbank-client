@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-11T12:44:54.544Z"
+    },
+    {
+      "id": 1,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-07-11T12:40:54.544Z"
+    },
+    {
+      "description": "Bicicleta",
+      "price": 2000,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-07-11T17:57:35.522Z",
+      "id": 2
+    },
+    {
+      "description": "Anão de borracha",
+      "price": 300,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-07-11T18:28:49.737Z",
+      "id": 3
+    }
+  ]
+}
